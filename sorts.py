@@ -43,5 +43,5 @@ def ajbSort(lst): ##Well, it might be sorted...? I hope...?
 
 def miracleSort(lst):
     while not isOrdered(lst):
-        kst = lst
+        lst = lst
     return(lst)
